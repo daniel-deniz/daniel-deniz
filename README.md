@@ -23,9 +23,17 @@ Some of the areas you'll find here:
 - Business-oriented digital products
 - Experiments connecting AI tools with real applications
 
+## Featured
+
+- **[TRG Manager](https://github.com/brick-studio-dev/trg-manager)** — A simple web app for auto repair shops to replace paper and spreadsheet repair logs: clients, vehicles, repairs and invoicing.
+- **[Cardly](https://github.com/daniel-deniz/cardly)** — AI assistant that turns a plain-language request into a ready-to-use feature or bug card, so the whole team writes tickets the same way.
+- **[MALAJE](https://github.com/brick-studio-dev/malaje)** — Concept e-commerce for a performance apparel brand built around attitude: *Not For Everyone*.
+
 ## Currently
 
 Working as a **Functional Analyst at B2Bit**, helping connect business needs with technology solutions.
+
+Also building **[Brick Studio](https://github.com/brick-studio-dev)** — a studio for web, automation and AI projects.
 
 📍 Spain
 💼 [LinkedIn](https://www.linkedin.com/in/ddeniz/)
